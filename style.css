@@ -1,0 +1,25 @@
+.wrap{
+padding: 0px;
+margin: 0px;
+margin-left: 50px;
+margin-right: 50px;
+}
+
+.container{
+
+	background-color: #E0F8F7;
+}
+.abc1{
+
+	background-color: #EFF8FF;
+	height: 350px;
+	width: 50%;
+	float: left;
+}
+.abc{
+
+	background-color: #EFF8FF;
+	height: 350px;
+	width: 50%;
+	float: left; 
+}
